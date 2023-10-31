@@ -9,7 +9,13 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+## Record Screen 
+<img src="https://github.com/dlrjswns/GJDynamicHeightCollectionView/assets/39263235/8662d0fd-ab3b-4ac2-a769-bb1bca9d4012" width=250 />
+
 ## Requirements
+- iOS 13.0+
+- Swift 5.5+
+- Xcode 13.0+
 
 ## Installation
 
@@ -20,9 +26,16 @@ it, simply add the following line to your Podfile:
 pod 'GJDynamicHeightCollectionView'
 ```
 
-## Author
+## Usage
+``` swift
+let collectionView = GJDynamicHeightCollectionView()
 
-dlrjswns, leekyunjun@gmail.com
+view.addSubview(collectionView)
+collectionView.topAnchor.constraint(equalTo: view.topAnchor).isActive = true
+collectionView.leadingAnchor.constraint(equalTo: view.leadingAnchor).isActive = true
+collectionView.trailingAnchor.constraint(equalTo: view.trailingAnchor).isActive = true
+collectionView.bottomAnchor.constraint(equalTo: view.bottomAnchor).isActive = true
+```
 
 ## License
 
