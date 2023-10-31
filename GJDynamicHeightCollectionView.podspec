@@ -17,10 +17,6 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
-
   s.homepage         = 'https://github.com/dlrjswns/GJDynamicHeightCollectionView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -28,9 +24,10 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/dlrjswns/GJDynamicHeightCollectionView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'GJDynamicHeightCollectionView/Classes/**/*'
+  s.swift_versions = '5.0'
   
   # s.resource_bundles = {
   #   'GJDynamicHeightCollectionView' => ['GJDynamicHeightCollectionView/Assets/*.png']

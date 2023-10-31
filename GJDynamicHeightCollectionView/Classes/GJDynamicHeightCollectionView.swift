@@ -19,8 +19,6 @@ open class GJDynamicHeightCollectionView: UICollectionView {
         ), subitems: [item]
       )
       let section = NSCollectionLayoutSection(group: group)
-      let footer = NSCollectionLayoutBoundarySupplementaryItem(layoutSize: .init(widthDimension: .fractionalWidth(1), heightDimension: .absolute(50)), elementKind: UICollectionElementKindSectionFooter, alignment: .bottom)
-      section.boundarySupplementaryItems = [footer]
       return section
     })
     configureUI()

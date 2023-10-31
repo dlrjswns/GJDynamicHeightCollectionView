@@ -40,7 +40,7 @@
 		0289920A951B87EA790A32CB47E8E1DB /* Pods-GJDynamicHeightCollectionView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GJDynamicHeightCollectionView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		09806EDB030229C1B0494337A07D97EC /* GJDynamicHeightCollectionView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GJDynamicHeightCollectionView-prefix.pch"; sourceTree = "<group>"; };
 		13EE8A885A5D57348944F45A25E3029A /* Pods-GJDynamicHeightCollectionView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-GJDynamicHeightCollectionView_Example-umbrella.h"; sourceTree = "<group>"; };
-		167E8450A5745D8C31FD26F8BE9EA119 /* GJDynamicHeightCollectionView */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = GJDynamicHeightCollectionView; path = GJDynamicHeightCollectionView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		167E8450A5745D8C31FD26F8BE9EA119 /* GJDynamicHeightCollectionView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GJDynamicHeightCollectionView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C6D471CDC870BDD844D80F533EC4CE3 /* Pods-GJDynamicHeightCollectionView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GJDynamicHeightCollectionView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		279EC6B523CEE69CC0931E7618920D54 /* Pods-GJDynamicHeightCollectionView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GJDynamicHeightCollectionView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		2E9A06AE30E6E8179C1ACEACF8E36E4D /* Pods-GJDynamicHeightCollectionView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-GJDynamicHeightCollectionView_Tests-dummy.m"; sourceTree = "<group>"; };
@@ -64,11 +64,11 @@
 		A67175E7AD8A9A08696FEC9DAE07DDB6 /* Pods-GJDynamicHeightCollectionView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-GJDynamicHeightCollectionView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B8EA8A3267C6B0D7C1835A01835FF84A /* Pods-GJDynamicHeightCollectionView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GJDynamicHeightCollectionView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		C43690F0C665AD510672254185036454 /* GJDynamicHeightCollectionView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GJDynamicHeightCollectionView.swift; path = GJDynamicHeightCollectionView/Classes/GJDynamicHeightCollectionView.swift; sourceTree = "<group>"; };
-		DB6F8F1E9646574D6722858964DD7616 /* Pods-GJDynamicHeightCollectionView_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-GJDynamicHeightCollectionView_Tests"; path = Pods_GJDynamicHeightCollectionView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB6F8F1E9646574D6722858964DD7616 /* Pods_GJDynamicHeightCollectionView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GJDynamicHeightCollectionView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E788BF502FEC9C9090633E68962811E1 /* Pods-GJDynamicHeightCollectionView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GJDynamicHeightCollectionView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		ED8F638BD826232A845FFE5F3071CBF7 /* Pods-GJDynamicHeightCollectionView_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-GJDynamicHeightCollectionView_Tests-Info.plist"; sourceTree = "<group>"; };
 		EF6FA1CABAAD3240DC813610CB379752 /* GJDynamicHeightCollectionView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "GJDynamicHeightCollectionView-dummy.m"; sourceTree = "<group>"; };
-		F55D3DB952BF3FCA42A3942B95A7CA44 /* Pods-GJDynamicHeightCollectionView_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-GJDynamicHeightCollectionView_Example"; path = Pods_GJDynamicHeightCollectionView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F55D3DB952BF3FCA42A3942B95A7CA44 /* Pods_GJDynamicHeightCollectionView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GJDynamicHeightCollectionView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F79A83E0CF62FBD0A8935670774790CB /* GJDynamicHeightCollectionView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GJDynamicHeightCollectionView-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -161,9 +161,9 @@
 		8E8C1F2C7299F6FE81F3E64A64CCC942 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				167E8450A5745D8C31FD26F8BE9EA119 /* GJDynamicHeightCollectionView */,
-				F55D3DB952BF3FCA42A3942B95A7CA44 /* Pods-GJDynamicHeightCollectionView_Example */,
-				DB6F8F1E9646574D6722858964DD7616 /* Pods-GJDynamicHeightCollectionView_Tests */,
+				167E8450A5745D8C31FD26F8BE9EA119 /* GJDynamicHeightCollectionView.framework */,
+				F55D3DB952BF3FCA42A3942B95A7CA44 /* Pods_GJDynamicHeightCollectionView_Example.framework */,
+				DB6F8F1E9646574D6722858964DD7616 /* Pods_GJDynamicHeightCollectionView_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -269,7 +269,7 @@
 			);
 			name = "Pods-GJDynamicHeightCollectionView_Example";
 			productName = Pods_GJDynamicHeightCollectionView_Example;
-			productReference = F55D3DB952BF3FCA42A3942B95A7CA44 /* Pods-GJDynamicHeightCollectionView_Example */;
+			productReference = F55D3DB952BF3FCA42A3942B95A7CA44 /* Pods_GJDynamicHeightCollectionView_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		DD4B73F3A59330EEB18453E9FC0A2F86 /* GJDynamicHeightCollectionView */ = {
@@ -287,7 +287,7 @@
 			);
 			name = GJDynamicHeightCollectionView;
 			productName = GJDynamicHeightCollectionView;
-			productReference = 167E8450A5745D8C31FD26F8BE9EA119 /* GJDynamicHeightCollectionView */;
+			productReference = 167E8450A5745D8C31FD26F8BE9EA119 /* GJDynamicHeightCollectionView.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		FBE2D58F52EDE033568C798A32AB90B8 /* Pods-GJDynamicHeightCollectionView_Tests */ = {
@@ -306,7 +306,7 @@
 			);
 			name = "Pods-GJDynamicHeightCollectionView_Tests";
 			productName = Pods_GJDynamicHeightCollectionView_Tests;
-			productReference = DB6F8F1E9646574D6722858964DD7616 /* Pods-GJDynamicHeightCollectionView_Tests */;
+			productReference = DB6F8F1E9646574D6722858964DD7616 /* Pods_GJDynamicHeightCollectionView_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -422,7 +422,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-GJDynamicHeightCollectionView_Example/Pods-GJDynamicHeightCollectionView_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-GJDynamicHeightCollectionView_Example/Pods-GJDynamicHeightCollectionView_Example.modulemap";
@@ -456,7 +456,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-GJDynamicHeightCollectionView_Tests/Pods-GJDynamicHeightCollectionView_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-GJDynamicHeightCollectionView_Tests/Pods-GJDynamicHeightCollectionView_Tests.modulemap";
@@ -490,7 +490,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/GJDynamicHeightCollectionView/GJDynamicHeightCollectionView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/GJDynamicHeightCollectionView/GJDynamicHeightCollectionView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/GJDynamicHeightCollectionView/GJDynamicHeightCollectionView.modulemap";
 				PRODUCT_MODULE_NAME = GJDynamicHeightCollectionView;
@@ -522,7 +522,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-GJDynamicHeightCollectionView_Example/Pods-GJDynamicHeightCollectionView_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-GJDynamicHeightCollectionView_Example/Pods-GJDynamicHeightCollectionView_Example.modulemap";
@@ -555,7 +555,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/GJDynamicHeightCollectionView/GJDynamicHeightCollectionView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/GJDynamicHeightCollectionView/GJDynamicHeightCollectionView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/GJDynamicHeightCollectionView/GJDynamicHeightCollectionView.modulemap";
 				PRODUCT_MODULE_NAME = GJDynamicHeightCollectionView;
@@ -647,7 +647,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-GJDynamicHeightCollectionView_Tests/Pods-GJDynamicHeightCollectionView_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-GJDynamicHeightCollectionView_Tests/Pods-GJDynamicHeightCollectionView_Tests.modulemap";
