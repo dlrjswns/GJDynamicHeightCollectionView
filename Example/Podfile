@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'GJDynamicHeightCollectionView_Example' do
+  pod 'GJDynamicHeightCollectionView', :path => '../'
+
+  target 'GJDynamicHeightCollectionView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

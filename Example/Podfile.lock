@@ -1,0 +1,16 @@
+PODS:
+  - GJDynamicHeightCollectionView (0.1.0)
+
+DEPENDENCIES:
+  - GJDynamicHeightCollectionView (from `../`)
+
+EXTERNAL SOURCES:
+  GJDynamicHeightCollectionView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GJDynamicHeightCollectionView: ffbfa055edb49166c80500b4da45aec7de0452ef
+
+PODFILE CHECKSUM: ea0de4dd35eddf61ee8122f1427e91440c3401e9
+
+COCOAPODS: 1.11.3
