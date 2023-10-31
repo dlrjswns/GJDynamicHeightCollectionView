@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GJDynamicHeightCollectionView'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'UICollectionView that dynamically specifies the height of the cell'
 
 # This description is used to generate tags and improve search results.
